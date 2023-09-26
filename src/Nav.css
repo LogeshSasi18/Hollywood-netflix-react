@@ -1,0 +1,42 @@
+.navh{
+    background-color: black !important;
+    /* position: fixed; */
+    /* left: 0; */
+    /* right: 0; */
+    /* z-index: 10; */
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    padding-bottom: 30px;
+    max-width: 1300px;
+    background-color: black !important;
+}
+.sin{
+    display: flex;
+    margin-top: 19px;
+}
+.nav-head{
+    color: #e50914;
+    font-size: 25px;
+    margin-top: 14px;
+}
+.sin .anc{
+    font-size: 13px;
+    background-color: #e50914;
+    text-decoration: none;
+    border: 1px solid #e50914;
+    padding: 5px 10px;
+    margin-left: 5px;
+}
+.sin .anc1{
+    font-size: 13px;
+    text-decoration: none;
+    border: 1px solid white;
+    padding: 5px 10px;
+    margin-left: 5px;
+}
+p{
+    font-size: 13px;
+}

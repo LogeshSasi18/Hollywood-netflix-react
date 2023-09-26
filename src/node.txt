@@ -1,0 +1,74 @@
+// movieimg = [
+    //     {
+    //         image: "https://m.media-amazon.com/images/M/MV5BZjU5OWVlN2EtODNlYy00MjhhLWI0MDUtMTA3MmQ5MGMwYTZmXkEyXkFqcGdeQXVyNjE5MTM4MzY@._V1_FMjpg_UX1000_.jpg",
+    //         List: 'all  horror'
+    //     },
+    //     {
+    //         image: "https://upload.wikimedia.org/wikipedia/en/5/5a/It_%282017%29_poster.jpg",
+    //         List: 'all  horror'
+    //     },
+    //     {
+    //         image: "https://upload.wikimedia.org/wikipedia/en/0/08/Annabelle_Creation.jpg",
+    //         List: 'all  horror'
+    //     },
+    //     {
+    //         image: "https://m.media-amazon.com/images/M/MV5BMjM3NzQ5NDcxOF5BMl5BanBnXkFtZTgwNzM4MTQ5NTM@._V1_FMjpg_UX1000_.jpg",
+    //         List: 'all  horror'
+    //     },
+    //     {
+    //         image: "https://www.themoviedb.org/t/p/original/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
+    //         List: 'all  action'
+    //     },
+    //     {
+    //         image: "https://picfiles.alphacoders.com/943/94323.jpg",
+    //         List: 'all  action'
+    //     },
+    //     {
+    //         image: "https://m.media-amazon.com/images/M/MV5BNzZmOTU1ZTEtYzVhNi00NzQxLWI5ZjAtNWNhNjEwY2E3YmZjXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg",
+    //         List: 'all  action'
+    //     },
+    //     {
+    //         image: "https://images.moviesanywhere.com/137de7df53b44414af057f89c0647b0b/38dd4c91-6758-46bd-969b-6acf010a249b.jpg",
+    //         List: 'all  action'
+    //     },
+    //     {
+    //         image: "https://m.media-amazon.com/images/M/MV5BMWU0MGYwZWQtMzcwYS00NWVhLTlkZTAtYWVjOTYwZTBhZTBiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    //         List: 'all  action'
+    //     },
+    //     {
+    //         image: "https://m.media-amazon.com/images/M/MV5BYjhiNjBlODctY2ZiOC00YjVlLWFlNzAtNTVhNzM1YjI1NzMxXkEyXkFqcGdeQXVyMjQxNTE1MDA@._V1_FMjpg_UX1000_.jpg",
+    //         List: 'all  adventure'
+    //     },
+    //     {
+    //         image: "https://m.media-amazon.com/images/M/MV5BMGVmMWNiMDktYjQ0Mi00MWIxLTk0N2UtN2ZlYTdkN2IzNDNlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg",
+    //         List: 'all  adventure'
+    //     },
+    //     {
+    //         image: "https://m.media-amazon.com/images/M/MV5BMTYyMTcxNzc5M15BMl5BanBnXkFtZTgwOTg2ODE2MTI@._V1_FMjpg_UX1000_.jpg",
+    //         List: 'all  adventure'
+    //     },
+    //     {
+    //         image: "https://m.media-amazon.com/images/I/61-rozyeQQL._AC_UF1000,1000_QL80_.jpg",
+    //         List: 'all  adventure'
+    //     },
+    //     {
+    //         image: "https://lumiere-a.akamaihd.net/v1/images/p_nationaltreasure2bookofsecrets_19895_8713f371.jpeg?region=0%2C0%2C540%2C810",
+    //         List: 'all  adventure'
+    //     },
+    //     {
+    //         image: "https://m.media-amazon.com/images/M/MV5BZjVmYzZlZmMtMDkwMS00Yjg4LTkyODktY2M0ZDk5Mzk4MzE3XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_.jpg",
+    //         List: 'all  animation'
+    //     },
+    //     {
+    //         image: "https://www.dreamworks.com/storage/cms-uploads/puss-in-boots-products-digital.jpg",
+    //         List: 'all  animation'
+    //     },
+    //     {
+    //         image: "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Mr_Peabody_%26_Sherman_Poster.JPG/220px-Mr_Peabody_%26_Sherman_Poster.JPG",
+    //         List: 'all  animation'
+    //     },
+    //     {
+    //         image: "https://lumiere-a.akamaihd.net/v1/images/p_frozen2_19644_4c4b423d.jpeg",
+    //         List: 'all  animation'
+    //     }
+    // ];
